@@ -1,6 +1,7 @@
 ### Hi there 👋
 #### Dang, Its You! 🫵
-![images](https://github.com/idealarihant/idealarihant/assets/24891908/9878619c-c32f-4207-9c3a-7b0207f48676)
+![image](https://github.com/idealarihant/idealarihant/assets/24891908/dd2ee285-ae65-4a36-8a78-2c67af9f73f0)
+
 
 <!--
 **idealarihant/idealarihant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
